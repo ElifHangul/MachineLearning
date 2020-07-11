@@ -13,7 +13,7 @@ From the textbook of C. Bishop "Pattern Recognition and Machine Learning" questi
 <p align="center">
 <img src="https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/8.3q.png">
 <img src="https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/8.4.png">
-</p>
+
 
 
 
@@ -22,7 +22,7 @@ From the textbook of C. Bishop "Pattern Recognition and Machine Learning" questi
 
 Then a Bayesian network question is answered. Below you can see an example graph.
 
-<p align="center">
+
 <img src="https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/example_graph.png">
 </p>
 
