@@ -1,14 +1,13 @@
-# CLASSIFICATION
+# Classification
 Binary classification dataset is used for decision trees and support vector machines(SVM): 
 https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#breast-cancer 
 
 Binary classification dataset used for neural networks:
-
 https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#diabetes 
 
 
 
-# Decision Trees
+## Decision Trees
 
 Decision tree learning algorithm is run on the dataset.
 
@@ -22,7 +21,7 @@ Experiment is repeated with different partitions and the resulting trees are plo
 </p>
 
 
-# Support Vector Machines(SVM)
+## Support Vector Machines(SVM)
 
 SVM is run to train a classifier, using radial basis as kernel function.
 
@@ -35,7 +34,7 @@ The combination of C and gamma that minimizes the cross validation error is sele
 <img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/svm_graph.png" height=400>
 </p>
 
-# Neural Networks(NN)
+## Neural Networks(NN)
 
 Multi-Layer perceptron using the cross-entropy loss with l-2 regularization (weight decay penalty) is trained.
 
@@ -44,7 +43,8 @@ Curves of the training and validation error as a function of the penalty strengt
 Logaritmic range for hyper-parameter alpha is used. Experimented with different sizes of the training/validation sets and different model parameters(network layers).
 
 Behavior of the curves are explained.
-<br>
+
+
 <p align="center">
 <img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/mlp_graph.png" height=400>
 </p>
