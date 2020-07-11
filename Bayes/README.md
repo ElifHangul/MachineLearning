@@ -6,4 +6,4 @@ Exercises:
 
 28.1
 
-![D.mackay](https://github.com/ElifHangul/MachineLearning/blob/master/Bayes/mackay.jpg?raw=true)
+                                     ![D.mackay](https://github.com/ElifHangul/MachineLearning/blob/master/Bayes/mackay.jpg?raw=true)
