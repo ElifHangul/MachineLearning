@@ -1,9 +1,10 @@
 # Classification
 
-https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#breast-cancer binary classification dataset is used for decision trees and support vector machines(SVM)
+Binary classification dataset is used for decision trees and support vector machines(SVM):
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#breast-cancer 
 
-
-https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#diabetes binary classification dataset used for neural networks.
+Binary classification dataset used for neural networks:
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#diabetes 
 
 
 
@@ -15,10 +16,10 @@ Experiment is repeated with different partitions and the resulting trees are plo
 
 
 <p align="center">
-<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/d02-7.png" height=400>
+<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/decision_tree.png" width=600 height=400>
 </p>
 
-<br>
+
 # Support Vector Machines(SVM)
 
 SVM is run to train a classifier, using radial basis as kernel function.
@@ -27,10 +28,9 @@ The combination of C and gamma that minimizes the cross validation error is sele
 
 
 <p align="center">
-<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/svm.png" height=400>
+<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/svm_graph.png" height=400>
 </p>
 
-<br>
 # Neural Networks(NN)
 
 Multi-Layer perceptron using the cross-entropy loss with l-2 regularization (weight decay penalty) is trained.
@@ -39,5 +39,5 @@ Logaritmic range for hyper-parameter alpha is used. Experimented with different 
 Behavior of the curves are explained.
 <br>
 <p align="center">
-<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/mlp03-10.png" height=400>
+<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/mlp_graph.png" height=400>
 </p>
