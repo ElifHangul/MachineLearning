@@ -1,6 +1,6 @@
 # Classification
 
-Binary classification dataset is used for decision trees and support vector machines(SVM):
+Binary classification dataset is used for decision trees and support vector machines(SVM): 
 https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#breast-cancer 
 
 Binary classification dataset used for neural networks:
@@ -16,7 +16,7 @@ Experiment is repeated with different partitions and the resulting trees are plo
 
 
 <p align="center">
-<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/decision_tree.png" width=600 height=400>
+<img src="https://github.com/ElifHangul/MachineLearning/blob/master/DecisionTree-SVM-NN/images/d_tree.png" width=600 height=400>
 </p>
 
 
