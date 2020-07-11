@@ -20,4 +20,5 @@ Then a Bayesian network question is answered. Below you can see an example graph
 ![graph](https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/example_graph.png?raw=true)
 
 
+
 For checking the answers numerically and have a better understanding, you can download and use the Java tool http://aispace.org/bayes/
