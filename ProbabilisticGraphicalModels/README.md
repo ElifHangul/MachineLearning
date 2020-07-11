@@ -1,3 +1,5 @@
+# Probabilistic Graphical Models
+
 From the textbook of C. Bishop "Pattern Recognition and Machine Learning" questions 8.3, 8.4 are solved.
 
 <img src="https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/bishop.jpg" width=400 height=500 />
