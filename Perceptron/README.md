@@ -7,6 +7,8 @@ side to -1.
 Experiment with the perceptron algorithm with different settings.
 
 
+
+
 <p align="center">
 <img src = "https://github.com/ElifHangul/MachineLearning/blob/master/Perceptron/images/5.png" width=400>
 </p>
