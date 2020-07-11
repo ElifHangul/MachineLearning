@@ -8,7 +8,7 @@ From the textbook of C. Bishop "Pattern Recognition and Machine Learning" questi
 ![8.3q](https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/8.3q.png?raw=true)
 ![8.4](https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/8.4.png?raw=true)
 
-
+<img src="https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/8.4.png", width=400 />
 
 
 
