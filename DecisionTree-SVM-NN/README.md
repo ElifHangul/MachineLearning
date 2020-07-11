@@ -2,7 +2,7 @@
 Binary classification dataset is used for decision trees and support vector machines(SVM): 
 https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#breast-cancer 
 
-Binary classification dataset used for neural networks:
+Binary classification dataset used for neural networks:<br>
 https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#diabetes 
 
 
