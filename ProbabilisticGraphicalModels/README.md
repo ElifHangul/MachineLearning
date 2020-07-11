@@ -1,6 +1,6 @@
 From the textbook of C. Bishop "Pattern Recognition and Machine Learning" questions 8.3, 8.4 are solved.
 
-<img src="https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/bishop.png" width=400 />
+<img src="https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/bishop.jpg" width=400 />
 
 ![8.3](https://github.com/ElifHangul/MachineLearning/blob/master/ProbabilisticGraphicalModels/images/8.3.png?raw=true)
 
